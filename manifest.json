@@ -1,0 +1,75 @@
+
+{
+  "background_color": "#ffffff",
+  "description": "The #1 Jamstack Directory Platform",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Jamstacker",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Jamstacker",
+  "start_url": "https://jamstacker.xyz/",
+  "theme_color": "#ffffff",
+  "categories": ["technology", "directory"],
+  "screenshots": [
+    {
+      "src": "https://moonclub.co.za/MoonClub-Icon.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "https://moonclub.co.za/screenshot_2.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+ {
+  "src": "https://jamstacker.xyz/3BF53DA6-5208-4208-A38B-FC87B5D15236.png",
+  "sizes": "144x144",
+  "type": "image/png",
+  "purpose": "maskable"
+},    
+
+{
+            "src": "https://jamstacker.xyz/3BF53DA6-5208-4208-A38B-FC87B5D15236.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://jamstacker.xyz/3BF53DA6-5208-4208-A38B-FC87B5D15236.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://jamstacker.xyz/3BF53DA6-5208-4208-A38B-FC87B5D15236.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://jamstacker.xyz/3BF53DA6-5208-4208-A38B-FC87B5D15236.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+  ],
+  "shortcuts": [
+{
+"name": "Platforms",
+"description": "Check out the latest market developments.",
+"src": "/platforms"
+},
+
+{
+"name": "Trending",
+"description": "Check out the latest content recommendations.",
+"src": "/trending"
+},
+
+{
+"name": "Shop",
+"description": "Check out the latest video tutorials.",
+"src": "/shop"
+}
+
+]
+}
