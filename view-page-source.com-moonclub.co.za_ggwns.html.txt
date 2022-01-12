@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <!-- This site was created in Webflow. http://www.webflow.com -->
 <!-- Last Published: Thu Jun 24 2021 20:14:09 GMT+0000 (Coordinated Universal Time) -->
-<html data-wf-domain="links-template.webflow.io" data-wf-page=
+<html lang="en-us" data-wf-domain="links-template.webflow.io" data-wf-page=
 "601f5553eadb7f26947161c9" data-wf-site="6012d939a7f34155b3f709eb">
 <head>
   <meta charset="utf-8">
-  <title>Not Found</title>
+  <title>Page Not Found</title>
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name=
@@ -49,12 +49,12 @@
     <div class="section reversed">
       <div class="container">
         <div class="margin-bottom-medium">
-          <h1>Page Not Found</h1>
+          <h1>Something went wrong 👨‍💻</h1>
           <div>
-            The page you are looking for doesn't exist or has been
-            moved.
+            It looks like the content you're looking for no longer exists or has been
+            moved. Please try again later or <a href="mailto:info@jamstacker.xyz">contact us</a> directly if you need help.
           </div>
-        </div><a href="/" class="button w-button">Go home</a>
+        </div><a href="/" class="button w-button">Go Back</a>
       </div>
     </div>
   </div>
