@@ -47,6 +47,21 @@ border: 2px solid #000!important;
 box-shadow: inset 2px 2px 2px 0px rgba(0,0,0,0.75);
 
   }
+
+.container-btn {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  border: 2px dashed rgba(114, 186, 94, 0.35);
+  height: 400px;
+  background: rgba(114, 186, 94, 0.05);
+}
+
+.shark-1 {
+  position: sticky;
+  top: 0;
+}
+
   </style>
 
 <!--PWABUILDER SCRIPTS-->
@@ -79,14 +94,14 @@ box-shadow: inset 2px 2px 2px 0px rgba(0,0,0,0.75);
 <body class="body-8">
 
 
-<div class="container">
+<pwa-install class="container-btn">
   <div class="item shark-1">
     <img
       src="/572A5151-285F-4D60-9EFC-43533B0437DB.png"
-      width="100"
+      width="75"
       alt="PWA Install Button"
     >
-  </div>
+  </pwa-install>
 
   <div class="navsection wf-section">
     <div>
