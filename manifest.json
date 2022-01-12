@@ -25,29 +25,29 @@
   ],
   "icons": [
  {
-  "src": "https://jamstacker.xyz/3BF53DA6-5208-4208-A38B-FC87B5D15236.png",
+  "src": "https://jamstacker.xyz/brand-logos/3DABDD92-5D34-4ADB-BA68-DBF7F4178914.png",
   "sizes": "144x144",
   "type": "image/png",
   "purpose": "maskable"
 },    
 
 {
-            "src": "https://jamstacker.xyz/3BF53DA6-5208-4208-A38B-FC87B5D15236.png",
+            "src": "https://jamstacker.xyz/brand-logos/3DABDD92-5D34-4ADB-BA68-DBF7F4178914.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://jamstacker.xyz/3BF53DA6-5208-4208-A38B-FC87B5D15236.png",
+            "src": "https://jamstacker.xyz/brand-logos/3DABDD92-5D34-4ADB-BA68-DBF7F4178914.png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "https://jamstacker.xyz/3BF53DA6-5208-4208-A38B-FC87B5D15236.png",
+            "src": "https://jamstacker.xyz/brand-logos/3DABDD92-5D34-4ADB-BA68-DBF7F4178914.png",
             "sizes": "384x384",
             "type": "image/png"
         },
         {
-            "src": "https://jamstacker.xyz/3BF53DA6-5208-4208-A38B-FC87B5D15236.png",
+            "src": "https://jamstacker.xyz/brand-logos/3DABDD92-5D34-4ADB-BA68-DBF7F4178914.png",
             "sizes": "512x512",
             "type": "image/png"
         }
@@ -55,19 +55,19 @@
   "shortcuts": [
 {
 "name": "Platforms",
-"description": "Check out the latest market developments.",
+"description": "Browse the free directory",
 "src": "/platforms"
 },
 
 {
 "name": "Trending",
-"description": "Check out the latest content recommendations.",
+"description": "Discover the latest trends",
 "src": "/trending"
 },
 
 {
 "name": "Shop",
-"description": "Check out the latest video tutorials.",
+"description": "Shop Jamstacker merch",
 "src": "/shop"
 }
 
